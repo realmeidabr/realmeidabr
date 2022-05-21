@@ -1,5 +1,5 @@
 <h1 align="center">Hey everyone! 👋 Welcome aboard!</h1><br>
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/realmeidabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmeidabr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmeidabr&layout=compact&langs_count=7&theme=aura"/>
