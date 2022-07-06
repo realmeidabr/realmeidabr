@@ -14,11 +14,11 @@
   <img align="center" alt="react icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nodejs icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="graphql icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="figma icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <!--<img align="center" alt="figma icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">-->
   <img align="center" alt="git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="npm icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="visual studio icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="godot icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+  <!--<img align="center" alt="godot icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">-->
   <img align="center" alt="windows icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
 
