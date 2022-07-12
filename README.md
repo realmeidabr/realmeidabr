@@ -8,7 +8,6 @@
 </ul>
 <br>
 <div align="center" display="flex">
-  <a href="https://github.com/realmeidabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmeidabr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmeidabr&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -31,11 +30,11 @@
 </div>
 <h2>Get in touch</h2>
 <div style="display: inline_block" align="center">
-  <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img alt="LinkedIn" width="22px" src="./linkedin.svg"/></a>
-  <a href="https://twitter.com/realmeidabr" target="_blank"><img alt="Twitter" width="22px" src="./twitter.svg"/></a>
-  <a href="https://realmeidabr.medium.com" target="_blank"><img alt="Medium" width="22px" src="./medium.svg"/></a>
-  <a href="mailto:realmeidabr@proton.me" target="_blank"><img alt="ProtonMail" width="22px" src="./protonmail.svg"/></a>
-  <a href="https://t.me/realmeidabr" target="_blank"><img alt="Telegram" width="22px" src="./telegram.svg"/></a>
+  <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img alt="LinkedIn" width="40px" src="./linkedin.png"/></a>&emsp;&emsp;
+  <a href="https://twitter.com/realmeidabr" target="_blank"><img alt="Twitter" width="40px" src="./twitter.png"/></a>&emsp;&emsp;
+  <a href="https://realmeidabr.medium.com" target="_blank"><img alt="Medium" width="40px" src="./medium.png"/></a>&emsp;&emsp;
+  <a href="mailto:realmeidabr@proton.me" target="_blank"><img alt="ProtonMail" width="40px" src="./email.png"/></a>&emsp;&emsp;
+  <a href="https://t.me/realmeidabr" target="_blank"><img alt="Telegram" width="40px" src="./telegram.png"/></a>
 </div>
 <!--<div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
