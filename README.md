@@ -32,7 +32,7 @@
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img alt="LinkedIn" width="40px" src="./linkedin.png"/></a>&emsp;&emsp;
   <a href="https://twitter.com/realmeidabr" target="_blank"><img alt="Twitter" width="40px" src="./twitter.png"/></a>&emsp;&emsp;
-  <a href="https://realmeidabr.medium.com" target="_blank"><img alt="Medium" width="40px" src="./medium.png"/></a>&emsp;&emsp;
+  <a href="https://realmeidabr.medium.com" target="_blank"><img alt="Medium" width="40px" src="./notebook.png"/></a>&emsp;&emsp;
   <a href="mailto:realmeidabr@proton.me" target="_blank"><img alt="ProtonMail" width="40px" src="./email.png"/></a>&emsp;&emsp;
   <a href="https://t.me/realmeidabr" target="_blank"><img alt="Telegram" width="40px" src="./telegram.png"/></a>
 </div>
