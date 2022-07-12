@@ -1,4 +1,12 @@
-<h1 align="center">Hey everyone! 👋 Welcome aboard!</h1><br>
+<h1 align="center">Hey everyone! Welcome aboard!👋</h1>
+<h2>About me</h2>
+<ul>
+  <li> 🚀 I’m currently working on Compliance, Marketing and Business.</li>
+  <li> 🌱 Currently learning Web Development, Typescript, NodeJS and so on!</li>
+  <li> 💛 Pronouns: he / him</li>
+  <li> ⚡ Fun fact: I'm a lawyer trying to get into code!</li>
+</ul>
+<br>
 <div align="center" display="flex">
   <a href="https://github.com/realmeidabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmeidabr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -21,20 +29,18 @@
   <!--<img align="center" alt="godot icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">-->
   <img align="center" alt="windows icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
-
-  ##
+<h2>Get in touch</h2>
 <div style="display: inline_block" align="center">
+  <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img alt="LinkedIn" width="22px" src="./linkedin.svg"/></a>
+  <a href="https://twitter.com/realmeidabr" target="_blank"><img alt="Twitter" width="22px" src="./twitter.svg"/></a>
+  <a href="https://realmeidabr.medium.com" target="_blank"><img alt="Medium" width="22px" src="./medium.svg"/></a>
+  <a href="mailto:realmeidabr@proton.me" target="_blank"><img alt="ProtonMail" width="22px" src="./protonmail.svg"/></a>
+  <a href="https://t.me/realmeidabr" target="_blank"><img alt="Telegram" width="22px" src="./telegram.svg"/></a>
+</div>
+<!--<div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/realmeidabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/realmeidabr" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://realmeidabr.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="mailto:realmeidabr@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-%238B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/realmeidabr" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-
-  
-## Also...
-
-- 🚀 I’m currently working on Compliance, Front-end Development, Marketing, Business and so on!
-- 🌱 I’m currently learning Typescript, nodeJS, SQL & more...
-- 💛 Pronouns: he / him
-- ⚡ Fun fact: I'm a lawyer playing coder!
+</div>-->
