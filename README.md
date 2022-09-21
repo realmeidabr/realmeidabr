@@ -2,7 +2,7 @@
 <h2>About me</h2>
 <ul>
   <li> 🚀 I’m currently working on Compliance, Marketing and Business.</li>
-  <li> 🌱 Currently learning Web Development, Typescript, NodeJS and so on!</li>
+  <li> 🌱 Learning Web Development, Typescript, NodeJS and so on!</li>
   <li> 💛 Pronouns: he / him</li>
   <li> ⚡ Fun fact: I'm a lawyer trying to get into code!</li>
 </ul>
@@ -24,7 +24,9 @@
   <!--<img align="center" alt="figma icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">-->
   <img align="center" alt="git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="npm icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="visual studio icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="csharp icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="csharp icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <!--<img align="center" alt="visual studio icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">-->
   <!--<img align="center" alt="godot icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">-->
   <img align="center" alt="windows icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
