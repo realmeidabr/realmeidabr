@@ -1,10 +1,10 @@
 <h1 align="center">Hey everyone! Welcome aboard!👋</h1>
 <h2>About me</h2>
 <ul>
-  <li> 🚀 I’m currently working on Compliance, Marketing and Business.</li>
+  <li> 🚀 Currently working on Compliance, Marketing, Business & Software Development.</li>
   <li> 🌱 Learning Web Development, Typescript, NodeJS and so on!</li>
   <li> 💛 Pronouns: he / him</li>
-  <li> ⚡ Fun fact: I'm a lawyer trying to get into code!</li>
+  <li> ⚡ Fun fact: I'm a lawyer trying to dive deeply into the codeverse!</li>
 </ul>
 <br>
 <div align="center" display="flex">
